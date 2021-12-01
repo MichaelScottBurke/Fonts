@@ -1,0 +1,80 @@
+
+@font-face {
+    font-family: 'volte_roundedbold';
+    src: url('volterounded-bold-webfont.woff2') format('woff2'),
+         url('volterounded-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'volte_roundedbold_italic';
+    src: url('volterounded-bolditalic-webfont.woff2') format('woff2'),
+         url('volterounded-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'volte_roundeditalic';
+    src: url('volterounded-italic-webfont.woff2') format('woff2'),
+         url('volterounded-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'volte_roundedlight';
+    src: url('volterounded-light-webfont.woff2') format('woff2'),
+         url('volterounded-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'volte_roundedlight_italic';
+    src: url('volterounded-lightitalic-webfont.woff2') format('woff2'),
+         url('volterounded-lightitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'volte_roundedmedium';
+    src: url('volterounded-medium-webfont.woff2') format('woff2'),
+         url('volterounded-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'volte_roundedmedium_italic';
+    src: url('volterounded-mediumitalic-webfont.woff2') format('woff2'),
+         url('volterounded-mediumitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'volte_roundedregular';
+    src: url('volterounded-regular-webfont.woff2') format('woff2'),
+         url('volterounded-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'volte_roundedsemibold';
+    src: url('volterounded-semibold-webfont.woff2') format('woff2'),
+         url('volterounded-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'volte_roundedsemibold_italic';
+    src: url('volterounded-semibolditalic-webfont.woff2') format('woff2'),
+         url('volterounded-semibolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
