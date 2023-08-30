@@ -1,7 +1,7 @@
 
 @font-face {
   font-family: 'Volte Rounded';
-  src: local(VolteRounded-Bold), url("VolteRounded-Bold.woff2") format('woff2');
+  src: local(VolteRounded-Bold), url("https://raw.githubusercontent.com/MichaelScottBurke/Fonts/main/fonts/VolteRounded-Bold.woff2") format('woff2');
   font-style: normal;
   font-feature-settings: "liga" 0;
   font-weight: 700;
@@ -10,7 +10,7 @@
 
 @font-face {
   font-family: 'Volte Rounded';
-  src: local(VolteRounded-Light), url("VolteRounded-Light.woff2") format('woff2');
+  src: local(VolteRounded-Light), url("https://raw.githubusercontent.com/MichaelScottBurke/Fonts/main/fonts/VolteRounded-Light.woff2") format('woff2');
   font-style: normal;
   font-feature-settings: "liga" 0;
   font-weight: 300;
@@ -19,7 +19,7 @@
 
 @font-face {
   font-family: 'Volte Rounded';
-  src: local(VolteRounded-Medium), url("VolteRounded-Medium.woff2") format('woff2');
+  src: local(VolteRounded-Medium), url("https://raw.githubusercontent.com/MichaelScottBurke/Fonts/main/fonts/VolteRounded-Medium.woff2") format('woff2');
   font-style: normal;
   font-feature-settings: "liga" 0;
   font-weight: 500;
@@ -28,7 +28,7 @@
 
 @font-face {
   font-family: 'Volte Rounded';
-  src: local(VolteRounded-Regular), url("VolteRounded-Regular.woff2") format('woff2');
+  src: local(VolteRounded-Regular), url("https://raw.githubusercontent.com/MichaelScottBurke/Fonts/main/fonts/VolteRounded-Regular.woff2") format('woff2');
   font-style: normal;
   font-feature-settings: "liga" 0;
   font-weight: 400;
@@ -37,7 +37,7 @@
 
 @font-face {
   font-family: 'Volte Rounded';
-  src: local(VolteRounded-Semibold), url("VolteRounded-Semibold.woff2") format('woff2');
+  src: local(VolteRounded-Semibold), url("https://raw.githubusercontent.com/MichaelScottBurke/Fonts/main/fonts/VolteRounded-Semibold.woff2") format('woff2');
   font-style: normal;
   font-feature-settings: "liga" 0;
   font-weight: 600;
